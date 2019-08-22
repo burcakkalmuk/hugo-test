@@ -1,6 +1,13 @@
 ---
-title: "My Second Post"
-date: 2019-08-22T09:54:54+03:00
-draft: true
+Title: Example 2 Events
+license: epl2.0
+logo: //www.eclipse.org/artwork/images/v2/eclipse_foundation_logo.jpg
+latest_version: 1.0.1
+download_url: //eclipse.org/downloads
+website: //eclipse.org/
+technology_types: ["Tools", "Sample"]
+build_technologies: ["Jenkins"]
+other_tags: ["lorem"]
 ---
 
+{{< events_table >}}

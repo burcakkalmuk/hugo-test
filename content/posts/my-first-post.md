@@ -1,5 +1,5 @@
 ---
-title: "My 2 Post"
+title: "Example first"
 date: 2019-08-22T00:05:11+03:00
 draft: true
 ---
